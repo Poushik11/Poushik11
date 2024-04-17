@@ -1,4 +1,4 @@
-<img src="readme_media/headerImage.png" width="100%"/>
+![Preview](https://steamuserimages-a.akamaihd.net/ugc/1750192278097226774/8973AD2363929FFC7DFEDD6ACC39E9F1ABBF05D6/)
 
 # 💫 About Me:
 🔭 I’m currently working on Back-end Web Technologies<br> 🌱 I’m currently learning Next js<br> 👯 I’m looking to collaborate on on where I could Help<br>👨‍💻 All of my projects are available at [poushiksweb@netlify.app](poushiksweb@netlify.app)<br>💬 Ask me about react , next, C++<br>📫 How to reach me poushikyelne750@gmail.com<br>⚡ Fun fact It’s all 0’s and 1’s
