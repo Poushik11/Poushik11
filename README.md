@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poushik Yelne</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poushik11&label=Profile%20views&color=0e75b6&style=flat" alt="poushik11" /> </p>
 
