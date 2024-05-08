@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"  height="50%" >
 
 # 💫 About Me:
-🔭 I’m currently working on Back-end Web Technologies<br> 🌱 I’m currently learning Next js<br> 👯 I’m looking to collaborate on where I could Help<br>👨‍💻 All of my projects are available at [poushiksweb@netlify.app](poushiksweb@netlify.app)<br>💬 Ask me about react , next, C++<br>📫 How to reach me poushikyelne750@gmail.com<br>⚡  Fun fact It’s all 0’s and 1’s
+🔭 I’m currently working on Back-end Web Technologies<br> 🌱 I’m currently learning Next js<br> 👯 I’m looking to collaborate on where I could Help<br>👨‍💻 All of my projects are available at [poushiksweb.netlify.app](https://poushiksweb.netlify.app/)<br>💬 Ask me about react , next, C++<br>📫 How to reach me poushikyelne750@gmail.com<br>⚡  Fun fact It’s all 0’s and 1’s
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Poushik11&label=Profile%20views&color=0e75b6&style=flat" alt="poushik11" /> </p>
 
