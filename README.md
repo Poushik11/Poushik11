@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"  height="70%" >
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif"  height="70%" width="700px" >
 
 # 💫 About Me:
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=950&height=50&font-size=20&lines=Hey%2C+I'm+Poushik+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Poushik Welcome to my Profile! animated typed out">
